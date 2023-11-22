@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balsancarismail" alt="balsancarismail" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Environments (Reactor,Security,Cloud,...))**
+- 🌱 I’m currently learning **Spring Environments (Reactor,Security,Cloud,...)**
 
 - 📝 I regularly write articles on [https://medium.com/@sncr.bl22](https://medium.com/@sncr.bl22)
 
@@ -29,6 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balsancarismail&show_icons=true&locale=en" alt="balsancarismail" /></p>
 
 # Blog posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
